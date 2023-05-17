@@ -1,4 +1,4 @@
-![niruta png](https://github.com/naseeb0/naseeb0/assets/84222049/b621a98a-2951-4c33-aed6-aff089dda6dc)
+![Hey! I am Niruta.png](https://github.com/naseeb0/naseeb0/assets/84222049/b621a98a-2951-4c33-aed6-aff089dda6dc)
 
 <!--
 **CreNiruta/Creniruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
