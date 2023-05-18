@@ -1,4 +1,4 @@
-![Hey! I am Niruta](https://github.com/CreNiruta/2ndsem/assets/84222049/3296ec7e-8a17-4e9e-90d8-1307e59f3c87)
+![gitcover](https://github.com/CreNiruta/Creniruta/assets/84222049/faf771ba-be97-4762-916e-bf30b193f85e)
 
 <!--
 **CreNiruta/Creniruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
